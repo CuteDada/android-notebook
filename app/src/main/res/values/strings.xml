@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="note_title">笔记标题</string>
+    <string name="notebook_title_hint">请输入笔记标题</string>
+    <string name="modify_time">最近修改时间：</string>
+    <string name="contain_hint">请输入笔记内容</string>
+    <string name="new_note">New Note</string>
+    <string name="del_note">Delete Note</string>
+    <string name="Note_picker_title">请确认是否删除该笔记？</string>
+    <string name="trans">new</string>
+</resources>
