@@ -11,8 +11,5 @@
 [开发环境]：
 	jdk、Android studio；
 
-[作者列表]：陈楠
-
 [更新链接]：https://github.com/CuteDada/android-notebook.git
 
-[联系方式]：Email：814261312@qq.com
